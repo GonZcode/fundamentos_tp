@@ -21,7 +21,12 @@ Las librerias *random* y *time* son parte de python por eso no hace falta instal
 
 # Correcciones
 
-Para poder corregir el tp se recomienda crear un archivo donde diga quien corrige y sea dentro de la rama correciones. 
+## Para corregir se le pide crear un archivo en el cual diga el nombre de quien corrige
+la linea/función que esta corregiendo y agregar debajo como lo haria usted o el error que encuentre. 
+###
+- En caso de no encontrar por favor decir que esta todo bien o dejar su pensamiento :)
+- Recuerde siempre trabajar en la rama *correcciones*.
+- Indique la linea/función que esta corregiendo y agregar debajo como lo haria usted o el error que encuentre. 
 
 ----------------------------------------------------------------------------
 # Muchas gracias! :)
