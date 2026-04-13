@@ -25,7 +25,7 @@ Las librerias *random* y *time* son parte de python por eso no hace falta instal
 la linea/función que esta corregiendo y agregar debajo como lo haria usted o el error que encuentre. 
 ###
 - En caso de no encontrar por favor decir que esta todo bien o dejar su pensamiento :)
-- Recuerde siempre trabajar en la rama *correcciones*.
+- Recuerde siempre trabajar en la rama *correcciones*. (ejecutando en la terminal el comando *git checkout "Correcciones"*, para cambiar de rama)
 - Indique la linea/función que esta corregiendo y agregar debajo como lo haria usted o el error que encuentre. 
 
 ----------------------------------------------------------------------------
